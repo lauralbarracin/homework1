@@ -1,13 +1,15 @@
-# Build2
-TODO: Write a project description
+# Git and GitHub
 
-## Installation
 
-TODO: Describe the installation process
+# Contributors
+Connor, Laura and Kelly group project. 
 
-## Usage
+# Description
+the 3 team members are to each create a webpage with a small bio and a picture. Commit, push, pull and merge those individual html's into one master file. 
 
-TODO: Write usage instructions
+
+# Function
+This project has no function beyond its own creation. 
 
 ## Contributing
 
